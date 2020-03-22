@@ -1,0 +1,10 @@
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\bin\Debug\2D.exe.config
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\bin\Debug\2D.exe
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\bin\Debug\2D.pdb
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\2D.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\_2D.Form1.resources
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\_2D.Properties.Resources.resources
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\2D.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\2D.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\2D.exe
+C:\Users\Ольга\Desktop\ndbvc\cg\2D\2D\obj\Debug\2D.pdb
