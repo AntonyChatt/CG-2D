@@ -12,7 +12,7 @@ namespace _2D
 {
     public partial class Form1 : Form
     {
-        public Form1()// Also, you can change Form background-color
+        public Form1()
         {
             InitializeComponent();
         }
@@ -58,7 +58,7 @@ namespace _2D
         {
             int interval = ClientSize.Width / 20;
 
-            PointF[] polygon = new PointF[]//in this massive you must to enter your points for polygon
+            PointF[] polygon = new PointF[]
             {
                 new PointF((ClientSize.Width / 2) - 2 * interval, (ClientSize.Height / 2) - 2 * interval),
                 new PointF((ClientSize.Width / 2) - 2 * interval, (ClientSize.Height / 2) + 2 * interval),
@@ -75,9 +75,9 @@ namespace _2D
         {
             Refresh();
             Graphics g = this.CreateGraphics();
-            Pen myPen = new Pen(Color.MidnightBlue, 2);  //Change color
-            Brush myBrush = new SolidBrush(Color.MidnightBlue); //Change color
-            Pen polygonPen = new Pen(Color.SlateBlue, 2);  //Change color
+            Pen myPen = new Pen(Color.MidnightBlue, 2);  
+            Brush myBrush = new SolidBrush(Color.MidnightBlue); 
+            Pen polygonPen = new Pen(Color.SlateBlue, 2);  
             drawAxises(g, myPen, myBrush);
             drawPolygon(g, polygonPen);
         }
